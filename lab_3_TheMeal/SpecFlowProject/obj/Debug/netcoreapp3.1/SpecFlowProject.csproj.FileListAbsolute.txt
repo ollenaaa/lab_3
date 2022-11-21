@@ -1,0 +1,5 @@
+C:\Users\владелец\source\repos\lab_2\SpecFlowProject\obj\Debug\netcoreapp3.1\SpecFlowProject.csproj.AssemblyReference.cache
+C:\Users\владелец\source\repos\lab_2\SpecFlowProject\obj\Debug\netcoreapp3.1\SpecFlowProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\владелец\source\repos\lab_2\SpecFlowProject\obj\Debug\netcoreapp3.1\SpecFlowProject.AssemblyInfoInputs.cache
+C:\Users\владелец\source\repos\lab_2\SpecFlowProject\obj\Debug\netcoreapp3.1\SpecFlowProject.AssemblyInfo.cs
+C:\Users\владелец\source\repos\lab_2\SpecFlowProject\obj\Debug\netcoreapp3.1\SpecFlowProject.csproj.CoreCompileInputs.cache

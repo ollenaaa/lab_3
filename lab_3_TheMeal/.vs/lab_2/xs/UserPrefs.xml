@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FDE3194A-C9CA-4E8F-810D-C9A9BBB14B4B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TheMeal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpecFlowProject1/StepDefinitions/ReadTheMealStepDefinitions.cs">
+    <Files>
+      <File FileName="SpecFlowProject1/StepDefinitions/ReadTheMealStepDefinitions.cs" Line="12" Column="53" />
+      <File FileName="SpecFlowProject1/Features/ReadTheMeal.feature.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab_2" expanded="True">
+            <Node name="TheMeal" expanded="True">
+              <Node name="Features" expanded="True" />
+              <Node name="StepDefinitions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lab_2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

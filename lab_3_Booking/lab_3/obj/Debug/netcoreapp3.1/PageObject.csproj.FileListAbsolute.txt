@@ -1,0 +1,20 @@
+C:\Users\владелец\source\repos\lab_2\lab_2\bin\Debug\netcoreapp3.1\PageObject.deps.json
+C:\Users\владелец\source\repos\lab_2\lab_2\bin\Debug\netcoreapp3.1\PageObject.dll
+C:\Users\владелец\source\repos\lab_2\lab_2\bin\Debug\netcoreapp3.1\PageObject.pdb
+C:\Users\владелец\source\repos\lab_2\lab_2\obj\Debug\netcoreapp3.1\PageObject.csproj.AssemblyReference.cache
+C:\Users\владелец\source\repos\lab_2\lab_2\obj\Debug\netcoreapp3.1\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\владелец\source\repos\lab_2\lab_2\obj\Debug\netcoreapp3.1\PageObject.AssemblyInfoInputs.cache
+C:\Users\владелец\source\repos\lab_2\lab_2\obj\Debug\netcoreapp3.1\PageObject.AssemblyInfo.cs
+C:\Users\владелец\source\repos\lab_2\lab_2\obj\Debug\netcoreapp3.1\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\владелец\source\repos\lab_2\lab_2\obj\Debug\netcoreapp3.1\PageObject.dll
+C:\Users\владелец\source\repos\lab_2\lab_2\obj\Debug\netcoreapp3.1\PageObject.pdb
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\bin\Debug\netcoreapp3.1\PageObject.deps.json
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\bin\Debug\netcoreapp3.1\PageObject.dll
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\bin\Debug\netcoreapp3.1\PageObject.pdb
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\obj\Debug\netcoreapp3.1\PageObject.csproj.AssemblyReference.cache
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\obj\Debug\netcoreapp3.1\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\obj\Debug\netcoreapp3.1\PageObject.AssemblyInfoInputs.cache
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\obj\Debug\netcoreapp3.1\PageObject.AssemblyInfo.cs
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\obj\Debug\netcoreapp3.1\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\obj\Debug\netcoreapp3.1\PageObject.dll
+C:\Users\владелец\source\repos\lab_2 – копія\lab_2\obj\Debug\netcoreapp3.1\PageObject.pdb
